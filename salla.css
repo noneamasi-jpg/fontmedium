@@ -1,13 +1,13 @@
 @font-face {
 font-family: "Alfares";
-font-style: normal;
-src: url(Alfares.ttf) format("ttf");
+font-style: medium;
+src: url(itfOmniaNaskh-Medium.otf) format("otf");
 font-display: auto;
 }
 
 @font-face {
-font-family: "Alfares";
-font-style: normal;
+font-family: "itfOmniaNaskh-Medium";
+font-style: medium;
 font-weight: 700;
 src: url(itfOmniaNaskh-Medium.otf) format("truetype");
 unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
@@ -16,7 +16,7 @@ U+FEFF, U+FFFD;
 }
 
 body {
-font-family: "Alfares", cursive;
+font-family: "itfOmniaNaskh-Medium", cursive;
 text-align: center;
 }
 
